@@ -11,7 +11,7 @@
 
 
 
-GO TO [RELOAD.PY](https://github.com/AimmXD/NEZUKONEW/blob/Master/AIMXMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/AimmXD/NEZUKONEW/blob/Master/PROMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
   <img width="500" src="https://telegra.ph/file/93fe8699ccadb924effad.jpg">
@@ -25,7 +25,7 @@ GO TO [RELOAD.PY](https://github.com/AimmXD/NEZUKONEW/blob/Master/AIMXMUSIC/plug
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AimmXD/NezukoMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AimmXD/NEZUKONEW"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <p><img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AimmXD&show_icons=true&locale=en&layout=compact" alt="AimmXD" /></p>
 
